@@ -2,10 +2,15 @@
 hide_body: false
 is_partial: true
 fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: footer-1
 - type: textarea
+  label: Footer Text
   name: content
-  label: Content
   config:
     wysiwyg: true
     schema:
-      format: markdown
+      format: html
