@@ -2,7 +2,7 @@
 date = 2020-04-17T23:00:00Z
 draft = true
 layout = "blocks"
-title = "A Page"
+title = "Home"
 [[page_sections]]
 block = "header-2"
 logo = "/uploads/Globe.png"
