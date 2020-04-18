@@ -11,7 +11,7 @@ size = "Big"
 subheading = "A sustainable answer to fast fashion"
 template = "hero-section"
 [[blocks]]
-content = ""
+content = "This is a whole bunch of content you see"
 template = "body-copy"
 [[blocks]]
 button_text = ""
