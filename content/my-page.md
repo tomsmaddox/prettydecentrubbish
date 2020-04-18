@@ -14,11 +14,11 @@ template = "hero-section"
 content = "This is a whole bunch of content you see"
 template = "body-copy"
 [[blocks]]
-button_text = ""
+button_text = "click here"
 button_url = ""
-content = ""
-heading = ""
-subheading = ""
+content = "Lorum Ipsum"
+heading = "Follow us"
+subheading = "if you like great memes"
 template = "call-to-action"
 
 +++
