@@ -5,7 +5,7 @@ layout = "blocks"
 title = "Home"
 [[page_sections]]
 block = "header-2"
-logo = "/media/Globe.png"
+logo = "/uploads/Globe.png"
 template = "navigation-header-w-button"
 [page_sections.cta]
 link_text = "Start Swapping!"
@@ -28,7 +28,7 @@ link_text = "Blog"
 link_url = ""
 open_in_new_tab = false
 [[page_sections]]
-background_image = "/media/woman-wears-black-scoop-neck-long-sleeved-blouse-seats-on-821416.jpg"
+background_image = "/uploads/woman-wears-black-scoop-neck-long-sleeved-blouse-seats-on-821416.jpg"
 block = "hero-2"
 content = "Local sustainable events for daring stylish people"
 headline = "Pretty Decent Rubbish"
