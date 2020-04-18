@@ -1,0 +1,24 @@
++++
+draft = true
+title = "My Page"
+[[blocks]]
+background_image = ""
+background_style = "Brand Color"
+button_text = "Button"
+button_url = ""
+heading = "Pretty Decent Rubbish"
+size = "Big"
+subheading = "A sustainable answer to fast fashion"
+template = "hero-section"
+[[blocks]]
+content = "This is a whole bunch of content you see"
+template = "body-copy"
+[[blocks]]
+button_text = "click here"
+button_url = ""
+content = "Lorum Ipsum"
+heading = "Follow us"
+subheading = "if you like great memes"
+template = "call-to-action"
+
++++
